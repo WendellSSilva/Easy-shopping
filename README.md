@@ -5,9 +5,11 @@
 
 <h2>Tecnologias utilizadas</h2>
 <br>
+
+- HTML
+- CSS
+
 <br>
-<p>-HTML</p>
-<p>-CSS</p>
 
 <img src="https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20pc.png?raw=true" />
 
