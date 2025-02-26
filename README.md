@@ -13,4 +13,6 @@
 
 <img src="https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20pc.png?raw=true" />
 
+<img src="https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20pc.png?raw=true" />
+
 <img src="https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20celular.png?raw=truehttps://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20celular.png?raw=true" />
