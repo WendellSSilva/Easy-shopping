@@ -1,16 +1,26 @@
-<h1>Easy Shopping</h1>
-<br>
-<br>
-<h2>Projeto responsivo que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+# 🛒 Easy Shopping
 
-<h2>Tecnologias utilizadas</h2>
-<br>
+Landing page responsiva desenvolvida durante meus estudos de Front-end no DevClub.
 
-- HTML
-- CSS
+## 🚀 Tecnologias Utilizadas
 
-<br>
+* HTML5
+* CSS3
+* Responsividade
+
+## 📱 Sobre o Projeto
+
+Projeto desenvolvido com foco em:
+
+* Estruturação semântica com HTML
+* Estilização moderna com CSS
+* Responsividade para dispositivos móveis e desktop
+* Boas práticas de desenvolvimento Front-end
+
+## 💻 Versão Desktop
 
 <img src="https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20pc.png?raw=true" />
 
-<img src="https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20celular.png?raw=truehttps://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20celular.png?raw=true" />
+## 📱 Versão Mobile
+
+<img src="https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%20shopping%20celular.png?raw=true" />
