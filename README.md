@@ -29,3 +29,6 @@ Projeto desenvolvido com foco em:
 
 Repositório:
 https://github.com/WendellSSilva/Easy-shopping
+
+Projeto Online:
+[Acesse aqui](https://wendellssilva.github.io/Easy-shopping)
